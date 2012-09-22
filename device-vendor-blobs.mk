@@ -47,7 +47,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/apache/proprietary/lib/libakm.so:system/lib/libakm.so \
     vendor/samsung/apache/proprietary/lib/libaudioalsa.so:system/lib/libaudioalsa.so \
     vendor/samsung/apache/proprietary/lib/hw/lights.msm7k.so:system/lib/hw/lights.ancora.so \
-    vendor/samsung/apache/proprietary/lib/hw/sensors.GT-I8150.so:system/lib/hw/sensors.ancora.so
+    vendor/samsung/apache/proprietary/lib/hw/sensors.SGH-I847.so:system/lib/hw/sensors.ancora.so
 
 # Camera libs
 PRODUCT_COPY_FILES += \
